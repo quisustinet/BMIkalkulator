@@ -1,3 +1,4 @@
+#BMI Kalkulator
 from easygui import *
 def error_msg(missing):
     msgbox(
